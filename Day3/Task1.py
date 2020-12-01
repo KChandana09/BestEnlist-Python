@@ -1,5 +1,5 @@
 #merge two Python dictionaries
-sweets = {"Jamun": 25, "Jalebi": 20, "Rasagulla": 40}
+sweets = {"Jamun": 25, "Jalebi": 20, "Rasagulla": 50}
 chocolates = {"Dairy Milk": 30, "Kit Kat": 25, "Eclairs": 45}
 pack = sweets.copy()
 pack.update(chocolates)
