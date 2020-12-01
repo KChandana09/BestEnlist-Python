@@ -5,4 +5,3 @@ list1 = list(tuple)
  
 #print list
 print(list1)
- 

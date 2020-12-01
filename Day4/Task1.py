@@ -16,7 +16,3 @@ print(max1)
 #Store the Smallest number from the list to a variable
 min1 = min(list)
 print(min1)      
-
-
-
-
