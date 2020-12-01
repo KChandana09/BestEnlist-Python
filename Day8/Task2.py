@@ -38,6 +38,3 @@ def calculator():
     finally:
         calculator()
 calculator()
-
-
-
