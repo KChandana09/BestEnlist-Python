@@ -1,0 +1,2 @@
+Some exception can be handled by python itself ,
+in such cases try-except scenario is not required
