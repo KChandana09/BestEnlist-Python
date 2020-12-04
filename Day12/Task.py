@@ -1,3 +1,4 @@
+# import the JSON file into the SQL Database
 import sqlite3
 import json
 
